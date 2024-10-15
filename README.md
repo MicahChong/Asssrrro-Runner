@@ -6,6 +6,9 @@
 Dodge the asteroids using your mouse and collect the blue stars to gain score. As time goes on the asteroids will gain speed making it harder!
 
 # Installation
+### Go to my itch.io for full assets including music for easier download.
+https://itch.io/game/edit/3040566#published
+
 ### Windows
 
 Open Command Prompt and run the following:
