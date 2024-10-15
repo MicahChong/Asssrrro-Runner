@@ -7,7 +7,7 @@ Dodge the asteroids using your mouse and collect the blue stars to gain score. A
 
 # Installation
 ### Go to my itch.io for full assets including music for easier download.
-https://itch.io/game/edit/3040566#published
+https://micahchong.itch.io/asssrrro-runner
 
 ### Windows
 
