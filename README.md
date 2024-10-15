@@ -1,6 +1,6 @@
 # Asssrrro Runner
 
-**Asssrrro Runner** is an exciting 2D space-themed game built using Python Pygame. This is my first time using Python to code a game. This 5-day project to learn and create something using Python and the pygame library.
+**Asssrrro Runner** is an exciting 2D space-themed game built using Python Pygame. This is my first time using Python to code a game. This was a 5-day project to learn and create something using Python and the pygame library.
 
 ## How to play?
 Dodge the asteroids using your mouse and collect the blue stars to gain score. As time goes on the asteroids will gain speed making it harder!
